@@ -29,7 +29,7 @@ As a personal touch, I've used _Styled Components_ for managing styles. The obje
 ### Clone the repository
 
 ```shell
-git clone
+git clone https://github.com/moisesjsalmeida/nlw5-Podcastr.git
 ```
 
 ### Install Dependencies
